@@ -24,8 +24,8 @@ npm run [test](https://docs.npmjs.com/cli/v8/commands/npm-test)
 
 ## Author
 👤 __Ujjwal Chand__
-* Twitter: [@UjjwalChand](https://twitter.com/UjjwalChand)
-* Github: [@UjjwalChand](https://github.com/UjjwalChand/Readme-example)
+* Twitter: [Ujjwal Chand](https://twitter.com/ujjwal_chand?t=gg0jAjVGZrkrBF3HHW3cDw&s=09)
+* Github: [Ujjwal Chand](https://github.com/UjjwalChand)
 
 ## 🤝 Contributing
 Contributions,issues and features requests are welcome!
